@@ -22,4 +22,4 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 ## ✅ 다짐 및 목표
 - 매일 1문제 이상 꾸준히 풀기(프로그래머스 추천 일일 도전 과제)
-- Study 팀원들과 알고리즘 공부
+- 팀원들과 알고리즘 공부(주 1회 예정)
