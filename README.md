@@ -21,4 +21,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 - **`프로그래머스/`**: 프로그래머스 풀이 (레벨별 분류)
 
 ## ✅ 다짐 및 목표
-- 매일 1문제 이상 꾸준히 풀기
+- 매일 1문제 이상 꾸준히 풀기(프로그래머스 추천 일일 도전 과제)
+- Study 팀원들과 알고리즘 공부
